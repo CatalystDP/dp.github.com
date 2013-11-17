@@ -3,7 +3,7 @@
 				{% include JB/share %}
 	</div>
 <script type="text/javascript">
-var duoshuoQuery = {short_name:"susiyang"};
+var duoshuoQuery = {short_name:"catalystdp"};
 	(function() {
 		var ds = document.createElement('script');
 		ds.type = 'text/javascript';ds.async = true;
