@@ -1,0 +1,25 @@
+permalink: /:categories/:year/:month/:day/:title 
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+pygments: true
+markdown: redcarpet
+title : 苏思洋的博客
+tagline: 推崇以用户为中心的设计理念，专注于用户体验设计，游走在视觉设计与前端开发之间
+author :
+  name : susu	
+  email : '744276721@qq.com'
+  github : sudosiyang
+  
+production_url : http://ssy.me
+
+JB :
+  version : 2.0.1
+  BASE_PATH : false
+  ASSET_PATH : false
+links :
+  - name : 'hyq'  
+    url : 'http://hyq.me'
+  - name : '特特区-音视频在线工具'
+    url : 'http://www.tetequ.com'
+  - name : '启航计算机协会'
+    url : 'http://www.dlmu.net'
